@@ -1,2 +1,3 @@
-# computer-netwrok-project
-packet tracer project project for computer netwrok -it351
+# IT351 Computer Networks Project
+
+This repository contains the Cisco Packet Tracer files and project progress for Phase 1 and Phase 2.
